@@ -1,5 +1,5 @@
 # RAG Q&A Service
-
+Demo-Video_link : https://drive.google.com/file/d/16-EFa1SRhJDw3QQxpEbO3YYYhit5cT1K/view?usp=sharing
 A **production-ready Retrieval-Augmented Generation (RAG) backend service** built with **FastAPI**. This service allows users to ask questions and receive context-aware answers by combining vector search (embeddings) with LLM-based generation.
 
 Designed to be **simple, scalable, and interview-ready**.
